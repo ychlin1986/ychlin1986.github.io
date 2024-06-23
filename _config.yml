@@ -13,12 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: your_weibo_username
-zhihu_username: your_zhihu_username
-github_username: your_github_username
-twitter_username: your_twitter_username
-#facebook_username: your_facebook_username
-#linkedin_username: your_linkedin_username
+twitter_username: H_Lam1986
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -68,8 +63,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: "" # Format: UA-xxxxxx-xx
+ga_domain: 
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.

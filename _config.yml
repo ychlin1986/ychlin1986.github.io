@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: ychlin1986@gmail.com
 description: "生活是充满美好还是是一坨翔"
 keyword: "关键係要open"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://l-xp.top/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+weibo_username: your_weibo_username
+zhihu_username: your_zhihu_username
+github_username: your_github_username
+twitter_username: your_twitter_username
+#facebook_username: your_facebook_username
+#linkedin_username: your_linkedin_username
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -26,14 +26,12 @@ highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude:
-  [
-    "less",
-    "node_modules",
-    "Gruntfile.js",
-    "package.json",
-    "README.md",
-    "README.zh.md",
-  ]
+  - "less"
+  - "node_modules"
+  - "Gruntfile.js"
+  - "package.json"
+  - "README.md"
+  - "README.zh.md"
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 #timezone: CN
@@ -42,7 +40,8 @@ anchorjs: true # if you want to customize anchor. check out line:181 of `post.ht
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -59,7 +58,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: your_disqus_username
 
 # Netease settings
 netease_comment: false
@@ -90,13 +89,11 @@ page-mathjax: false
 
 # Friends
 friends:
-  [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
-  ]
+  - { title: "乱序（Midare）", href: "http://mida.re/" }
+  - { title: "Ebn Zhang", href: "https://ebnbin.dev/" }
+  - { title: "Kun Qian", href: "http://kunq.me" }
+  - { title: "Sherry Woo", href: "https://sherrywoo.me/" }
+  - { title: "SmdCn", href: "http://blog.smdcn.net" }
+  - { title: "JiyinYiyong", href: "http://tiye.me/" }
+  - { title: "DHong Say", href: "http://dhong.co" }
+  - { title: "尹峰以为", href: "http://ingf.github.io/" }

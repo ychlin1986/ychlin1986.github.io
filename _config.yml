@@ -13,7 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-twitter_username: @H_Lam1986
+weibo_username: your_weibo_username
+zhihu_username: your_zhihu_username
+github_username: your_github_username
+twitter_username: your_twitter_username
+#facebook_username: your_facebook_username
+#linkedin_username: your_linkedin_username
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -58,17 +63,17 @@ disqus_username: your_disqus_username
 # Netease settings
 netease_comment: false
 
-# Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
-
 # Analytics settings
 # Baidu Analytics
 # ba_track_id: [your track id]
 
+# Google Analytics
+ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
+
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "这个时代，我们都很孤独！<br> React Team @ Meta"
+sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -84,7 +89,4 @@ page-mathjax: false
 
 # Friends
 friends:
-
-
-
- 
+  

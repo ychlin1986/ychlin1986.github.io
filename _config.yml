@@ -14,7 +14,6 @@ future: true
 # SNS settings
 RSS: false
 twitter_username: @H_Lam1986
-facebook_username: Levi Lin
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.

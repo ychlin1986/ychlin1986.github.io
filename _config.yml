@@ -1,7 +1,7 @@
 # Site settings
 title: 关键係要open
 SEOTitle: 关键係要open博客 | levi Blog
-header-img: img/IMG_3312.JPG
+header-img: bgw_5619.jpg
 email: ychlin1986@gmail.com
 description: "生活是充满,美好还是是一坨翔!"
 keyword: "关键係要open"
@@ -69,7 +69,7 @@ ga_domain:
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "关键係要open <br> Levi-L"
-sidebar-avatar: https://img.l-h.top/file/8d7ced616a12fc3e9dc57.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/IMG_3312.JPG # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags

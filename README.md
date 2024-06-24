@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[levi Blog](https://l-xp.top)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://github.com/ychlin1986/ychlin1986.github.io/blob/master/img/ok36.JPG)
 
 
 [User Manual 👉](_doc/Manual.md)
@@ -57,7 +57,7 @@ License
 -------
 
 Apache License 2.0.
-Copyright (c) 2015-present Huxpro
+Copyright (c) Levi
 
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
+levi Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.

@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "我来了！"
+title:        "😎😎"
 author:       "L-XP"
 header-style: text
 catalog:      true
@@ -8,4 +8,4 @@ tags:
     - Web
 ---
 
-嘿，你在哪？
+嘿！

@@ -6,7 +6,6 @@ header-style: text
 catalog:      true
 tags:
     - Web
-    - JavaScript
 ---
 
 嘿，你在哪？
